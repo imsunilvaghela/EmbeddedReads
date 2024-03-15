@@ -1,0 +1,277 @@
+     Building the Kernel Source Code - Done 
+
+     Embedded Linux Kernels 
+
+     BSPs and SDKs 
+
+     Linux References (Books and Online) 
+
+     BSP Requirements 
+
+     U-Boot and Bootloader Development 
+
+     Embedded Linux BSP Development Basics 
+
+     Basic BSP Development 
+
+     Files and Filesystem Support 
+
+     The I/O Subsystem: Talking to Hardware 
+
+     Memory Management and Paging 
+
+     Error Handling in Embedded Linux BSPs 
+
+     Timing and Timers 
+
+     Interrupt and Exception Handling in BSPs 
+
+     BSP Deployment Issues and Practices 
+
+     Embedded Linux SDK Basics 
+
+     The 3 Pieces of an SDK 
+
+     Embedded Linux Distributions and the GNU Compiler Collection (GCC) 
+
+     Other Embedded Linux Development Tools 
+
+     Library Support, Glibc and Alternatives 
+
+     SDK Deployment and Support 
+
+     Debugging 
+
+     GDB, GDB Server and the GDB Server Debugger 
+
+     Other Debug and Test Tools 
+
+     An Eclipse Remote Debug Example 
+
+     Advanced Debug with printk and syslogd 
+
+     System-Level Debug 
+
+     System-Level Debug Tools 
+
+     The /proc and sys Filesystems 
+
+     Advanced Logging Methods 
+
+     KGDB and KDB 
+
+     Crash Dumps 
+
+     Debugging Embedded Linux Systems 
+
+     Configuring Embedded Linux 
+
+     Config Methods 
+
+     Config Syntax 
+
+     Adding Code to the Linux Kernel 
+
+     Booting Embedded Linux 
+
+     Processor Startup 
+
+     Initial Functions 
+
+     The initcalls 
+
+     Using __init Functions 
+
+     NFS Booting 
+
+     Root File Systems 
+
+     RAMdisk Booting with initrd 
+
+     RAMdisk Booting with initramfs 
+
+     initrd vs initramfs 
+
+     Root File System Development 
+
+     Busybox Development 
+
+     Building a RAMdisk for an initrd 
+
+     Building a RAMdisk for an initramfs 
+
+     Flash File System Development 
+
+    Testing and Debug of Embedded Linux BSPs 
+
+     Kernel Debug and Kernel Probes 
+
+     Kexec and Kdump 
+
+     The Linux Test Project (LTP) 
+
+     Performance Tuning Embedded Linux BSPs 
+
+     Virtualization 
+
+     Measuring Embedded Linux BSP Performance 
+
+     Common Considerations 
+
+     Uncommon Considerations 
+
+     BootLoader Optimizations 
+
+     Boot Time Measurements 
+
+     Effective Memory and Flash Usage 
+
+     Filesystem Performance Measurement 
+
+     Some Ideas on Performance Measurement 
+
+    The Original UNIX Device Driver Model 
+
+     The fops and file structs 
+
+     The inode and dentry structs 
+
+     Major and Minor Numbers 
+
+     Embedding Channel Information 
+
+     Deferring Work 
+
+     The /proc Filesystem 
+
+     Configuring the Device Driver 
+
+     A Simulated Device Driver 
+
+     Modularization Revisited 
+
+     The Evolution of a New Driver Model 
+
+     The Initial Object-Oriented Approach 
+
+     Platform Devices and Drivers 
+
+     A Generic Subsystem Model 
+
+     The Generic Subsystem Model in Detail 
+
+     Subsystem Registration 
+
+     The Probe and Init Functions 
+
+     The Show and Store Functions 
+
+     User Access via the /sys Filesystem 
+
+     Configuring the New Device Driver 
+
+     The udev Linux Application 
+
+     Comparing the Two Driver Models 
+
+     The Flattened Device Tree (FDT) 
+
+     openBoot and its Effect on Embedded Linux 
+
+     The Device Tree Script (dts) File 
+
+     The Device Tree Compiler (dtc) 
+
+     The Device Tree Blob (dtb) File 
+
+     Building a dtb File 
+
+     Hybrid Device Drivers 
+
+     Other fops Functions 
+
+     The Need for Ioctl 
+
+     Linux Device Driver Subsystems 
+
+     Direct Connect Device Drivers 
+
+     Serial/Console Drivers, I2C & SPI 
+
+     Real-Time Clocks and Watchdogs 
+
+     GPIO and the Pinmux 
+
+     Flash MTDs and Direct Memory Access 
+
+     USB, Power and CPU Management 
+
+     Video and Audio 
+
+     PCI and VME 
+
+     Block Devices 
+
+     RAMdisk and Flash Filesystems 
+
+     MMCs and SD Cards 
+
+     Network Device Drivers 
+
+     MAC and PHY Device Drivers 
+
+     net_device and net_device_stats 
+
+     Network Device Initialization 
+
+     Device Discovery and Dynamic Initialization 
+
+     Network Interface Registration 
+
+     Network Interface Service Functions 
+
+     Receiving and Transmitting Packets 
+
+     Notifier Chains and Device Status Notification 
+
+     Unwired Device Drivers 
+
+     Wireless Device Drivers (WiFi, WLAN) 
+
+     Bluetooth and BlueZ 
+
+     Infrared and IrDA 
+
+     Cellular from 2G to 5G 
+
+     Drivers in User Space 
+
+     Accessing I/O and Memory Regions 
+
+     User Mode SCSI, USB and I2C 
+
+     UIO 
+
+     High-Speed Interconnects 
+
+     PCIe 
+
+     iSCSI 
+
+     Infiniband 
+
+     FibreChannel 
+
+     Debugging Device Drivers 
+
+     kdb, kgdb and JTAG 
+
+     Kernel Probes 
+
+     Kexec and Kdump 
+
+     Kernel Profiling 
+
+     User Mode Linux 
+
+     Performance Tuning Device Drivers 
